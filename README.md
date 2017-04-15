@@ -1,3 +1,3 @@
 # Algorithms_Javascript
 
-Algorithms in Javascript
+ Khan Academy Algorithms Challenge in Javascript
